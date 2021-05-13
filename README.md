@@ -1,1 +1,1 @@
-# -exerices-solidity-ethereum-2
+# exerices-solidity-ethereum-2
