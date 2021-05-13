@@ -9,7 +9,7 @@ pragma solidity ^0.8.0;
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Address.sol";
     
 contract Birthday {
-    // library usage
+    // Library usage
     using Address for address payable;
     
     // State variables
